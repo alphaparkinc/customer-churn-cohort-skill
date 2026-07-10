@@ -1,4 +1,4 @@
-# customer-churn-cohort-skill
+# genpark-customer-churn-cohort-skill
 
 > **GenPark AI Agent Skill** -- Cohort customer churn and retention compiler.
 

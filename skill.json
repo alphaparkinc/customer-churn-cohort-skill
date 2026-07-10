@@ -1,8 +1,8 @@
 {
   "name": "customer-churn-cohort-skill",
   "version": "1.0.0",
-  "description": "Group customers into monthly sign-up cohorts and monitor decay rates to output churn statistics.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Group customers into monthly sign-up cohorts and monitor decay rates to output churn statistics.",
+  "author": "genpark",
   "category": "analytics",
   "tags": [
     "cohorts",
